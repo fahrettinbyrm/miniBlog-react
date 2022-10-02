@@ -1,0 +1,25 @@
+{
+  "Yazilar": [
+    {
+      "ad": "bu bir başlık",
+      "description": "Bu bir açıklama",
+      "author": "fahrettin",
+      "id": 1
+    }, {
+      "ad": "bu bir başlık2",
+      "description": "Bu bir açıklama",
+      "author": "fahrettin",
+      "id": 2
+    }, {
+      "ad": "bu bir başlık3",
+      "description": "Bu bir açıklama",
+      "author": "fahrettin",
+      "id": 3
+    }, {
+      "ad": "bu bir başlık4",
+      "description": "Bu bir açıklama",
+      "author": "fahrettin",
+      "id": 4
+    }
+  ]
+}
